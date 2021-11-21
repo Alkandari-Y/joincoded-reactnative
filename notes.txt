@@ -1,0 +1,10 @@
+Replace both references to productitem and shopcard >>>>> ElementCard
+takes : 
+	element navigation 
+
+
+Replace both references to productlist and shoplist >>>>> ElementList
+takes :
+	element navigation store.list
+ 
+
